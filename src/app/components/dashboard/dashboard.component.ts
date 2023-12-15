@@ -9,7 +9,7 @@ import { CommonModule } from '@angular/common';
   imports: [RouterModule, CommonModule],
   templateUrl: './dashboard.component.html'  
 })
-export class DashboardComponent {
+export default class DashboardComponent {
   components = components.filter((component) => !!component.card);
 
   constructor() {
