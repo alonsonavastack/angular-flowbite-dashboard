@@ -7,7 +7,7 @@ import { Products } from './model/products';
 })
 export class CrudService {
 
-  url = 'http://localhost:4200/assets/data/products.json';
+  url = 'http://www.flowbite.alonso-nava.com/assets/data/products.json';
   
 
   products = signal<any>([])
