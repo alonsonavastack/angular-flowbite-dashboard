@@ -1,7 +1,7 @@
 # Dashboard
 
-Elaborado por Alonso Nava un nuevo dashboard con tailwindcss + flowbite + angular en v17
-App: (https://6573629762d11548876a7ed1--majestic-donut-40b0d7.netlify.app/)
+Link app With problems
+https://657c930d738f6519ac810b7e--cheerful-wisp-2a909d.netlify.app/
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0
