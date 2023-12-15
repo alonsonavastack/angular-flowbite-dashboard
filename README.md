@@ -1,7 +1,7 @@
 # Dashboard
 
 Link app With problems
-https://657c930d738f6519ac810b7e--cheerful-wisp-2a909d.netlify.app/
+http://flowbite.alonso-nava.com/
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0
